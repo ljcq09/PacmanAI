@@ -1,0 +1,23 @@
+{
+    "name": "game_over",
+    "version": "1.0.0",
+    "description": "Practice",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "keywords": [
+        "Socket.io"
+    ],
+    "author": "Lenin Cruz",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1",
+        "socket.io": "^2.2.0",
+        "socket.io-client": "^2.2.0"
+    },
+    "devDependencies": {
+        "nodemon": "^1.19.1"
+    }
+}
